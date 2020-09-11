@@ -2,6 +2,7 @@
 -------------------------------------------------------------------------------------
 PROGRAM INFO:
 Program: FinalProject.c
+Objective: Create a Wage system using pointers and linked lists.
 Date: 23/04/2020
 Autor: Felipe SG
 -------------------------------------------------------------------------------------
