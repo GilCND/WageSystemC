@@ -1,4 +1,4 @@
-# HospitalSystemC
-This project was created during my course at NSCC 
-This is my last project in C
-The objective here was to create a Hospital system using linked lists and Pointers. 
+# HospitalWageC
+## Create a Hospital system using linked lists and Pointers.
+### In this prohram the user should be able to:
+### Sort the wages using linked lists or pointers
